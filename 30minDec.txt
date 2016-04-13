@@ -1,1 +1,5 @@
-Genotype	Total_flies	Dead_Flies	Sex	Treatment	1hr_count	2hr_count	3hr_count	24hr_count1a	40	0	 Female	30min	16	8	3	41a 	36	4	 Male	30min	40	9	12	12a 	33	7	 Female	30min	40	0	2	22a 	34	6	 Male	30min	14	7	9	122B 	40	0	 Female	30min	3	2	3	32B 	39	1	 Male	30min	7	2	3	42C 	40	0	 Female	30min	40	0	2	32C 	40	0	 Male	30min	40	0	1	22H 	39	1	 Female	30min	4	2	3	42H 	40	0	 Male	30min	40	5	8	8
+Genotype	Total_flies	Dead_Flies	Sex	Treatment	1hr_count	2hr_count	3hr_count	24hr_count
+2C 	40	0	 Female	30min	40	0	2	3
+2C 	40	0	 Male	30min	40	0	1	2
+2H 	39	1	 Female	30min	4	2	3	4
+2H 	40	0	 Male	30min	40	5	8	8
